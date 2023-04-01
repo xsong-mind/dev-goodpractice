@@ -1,2 +1,3 @@
 # dev-goodpractice
-xsong's vim best configuration
+xsong's env setting up guide a
+Essitial tools for further developing 
