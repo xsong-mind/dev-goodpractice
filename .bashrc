@@ -99,17 +99,12 @@ PROMPT_DIRTRIM=2
 alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
-alias ghsprob='sudo minicom -D /dev/ttyS0 -b 9600'
-alias evb0='sudo minicom -D /dev/ttyUSB0 -b 230400'
-alias evb1='sudo minicom -D /dev/ttyUSB1 -b 230400'
-alias evb2='sudo minicom -D /dev/ttyUSB2 -b 230400'
-alias p0i_login='ssh pi@10.188.117.216'
-alias cdxl='cd /home/michael/works/xlabs/'
-alias cdwk='cd /home/michael/works/share/running/' 
-alias cdbd='cd /home/michael/sdwork1/sdshare/trident/builds/'
-alias cdshare='cd /home/michael/sdwork1/sdshare/' 
-alias cdhpon='cd /home/michael/works/harpoon/' 
-alias protium_ssh='ssh xsong@10.41.192.100' 
+#alias ghsprob='sudo minicom -D /dev/ttyS0 -b 9600'
+#alias evb0='sudo minicom -D /dev/ttyUSB0 -b 230400'
+#alias p0i_login='ssh pi@10.188.117.216'
+#alias cdxl='cd /home/michael/works/xlabs/'
+#alias cdhpon='cd /home/michael/works/harpoon/' 
+#alias protium_ssh='ssh xsong@10.41.192.100' 
 
 
 # Add an "alert" alias for long running commands.  Use like so:
