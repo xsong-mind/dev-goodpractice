@@ -78,7 +78,8 @@ Plug 'heavenshell/vim-pydocstring', {'do': 'make install' }
 
 Plug 'https://tpope.io/vim/fugitive.git'
 
-Plug 'git://github.com/altercation/vim-colors-solarized.git'
+" change the repo format, not sure how it works
+Plug 'altercation/vim-colors-solarized'
 
 Plug 'dense-analysis/ale'
 
@@ -86,7 +87,8 @@ Plug 'dense-analysis/ale'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
 
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
+" disable this function as non-usage
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 Plug 'itchyny/lightline.vim'
 
